@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651154921 source:c:\users\matheus\desktop\eletronica\code c c++\projetos\login_register_project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
