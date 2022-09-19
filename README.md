@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo comprender alguns conceitos básicos de C++. A ideia foi referenciada de um vídeo no Youtube de HazarEdit e uma sugestões de projetos do hackr.io. 
 
-O projeto contém desenvolvimento com manipulação de arquivos, uso de classes e máquina de estados simples.
+O projeto foi desenvolvido com manipulação de arquivos, uso de classes e máquina de estados simples.
 
 
 # Desenvolvimento
