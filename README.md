@@ -10,11 +10,9 @@ O projeto foi desenvolvido com manipulação de arquivos, uso de classes e máqu
 ## Bibliotecas
 
 Foram utilizadas as seguintes bibliotecas do C++: 
-
 - iostream
 - fstream
 - string 
-
 
 ## Funções
 
