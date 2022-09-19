@@ -34,8 +34,6 @@ A máquina de estados é simples com apenas 2 estados:
 - 1: Chama a função register_user;
 - 2: Chama a função log_in;
 
-
-
 # Referências
 
 - [Lista de Projetos](https://hackr.io/blog/cpp-projects)
