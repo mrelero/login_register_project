@@ -21,7 +21,7 @@ Foram utilizadas as seguintes bibliotecas do C++:
 Duas funções básicas foram desenvolvidas, register_user e log_in. 
 
 - register_user:
-    - Retorno: Vazio;
+    - Retorno: NULL;
     - Parâmetros de Entrada: Nenhum;
     - Objetivo: Registro os dados de id de usuário e senha em um arquivo de texto;
 - log_in:
