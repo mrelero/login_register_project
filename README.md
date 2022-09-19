@@ -31,7 +31,7 @@ Duas funções básicas foram desenvolvidas, register_user e log_in.
 
 ## Máquina de Estados
 
-A maquina de estados é simples com apenas 2 estados:
+A máquina de estados é simples com apenas 2 estados:
 
 - 1: Chama a função register_user;
 - 2: Chama a função log_in;
